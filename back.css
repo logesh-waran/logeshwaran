@@ -1,0 +1,39 @@
+.backcolor{
+   background-color: rgb(86, 110, 248);
+   /* padding: 50px; */
+}
+.name{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: auto;
+}
+.butt{
+   margin-left: 40%;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.profileimg{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.details{
+    margin-top: 35px;
+}
+.link{
+    float: right;
+    color:rgb(255, 244, 244);
+    font-size: 20px;
+    margin-right: 15px;
+}
+a:hover{
+    color: yellow;
+}
+.copyright{
+    padding: 5px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
